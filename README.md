@@ -39,7 +39,6 @@ CREATE TABLE IF NOT EXISTS public.accounts
 );
 =====================================================================================
 
-
 Criação da Tabela Transfer, de transferencias.
 ======================================================================================
 CREATE TABLE IF NOT EXISTS public.transfers
